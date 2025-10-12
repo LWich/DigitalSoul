@@ -3,12 +3,13 @@
 body {
     font-family: 'DM Sans', sans-serif;
     background-color: #FAF7F5;
+    overflow-x: hidden;
 }
 
-h1, h2, h3, h4 {
+/* h1, h2, h3, h4 {
     font-family: 'Cormorant Garamond', serif;
     font-weight: 600;
-}
+} */
 
 .hero-gradient {
     background: linear-gradient(135deg, #FAF7F5 0%, #FFF6F5 50%, #F5F7FF 100%);
